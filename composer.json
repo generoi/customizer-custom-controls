@@ -1,0 +1,23 @@
+{
+  "name": "maddisondesigns/customizer-custom-controls",
+  "type": "theme-plugin",
+  "license": "GPL-2.0-or-later",
+  "description": "Customizer Custom Controls",
+  "homepage": "https://github.com/maddisondesigns/customizer-custom-controls",
+  "authors": [
+    {
+      "name": "Antony Hortin",
+      "homepage": "https://maddisondesigns.com"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/maddisondesigns/customizer-custom-controls/issues"
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "composer/installers": "~1.0"
+  }
+}
